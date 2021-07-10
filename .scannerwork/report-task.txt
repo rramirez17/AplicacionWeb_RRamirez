@@ -1,0 +1,7 @@
+organization=rramirez-laboratorio5
+projectKey=rramirez17_AplicacionWeb_RRamirez
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21655
+dashboardUrl=https://sonarcloud.io/dashboard?id=rramirez17_AplicacionWeb_RRamirez
+ceTaskId=AXqHr1c7IiZn2JiS9iIp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqHr1c7IiZn2JiS9iIp
